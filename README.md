@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="images/project-poster.png" width="900">
+</p>
+
 # Wireless Temperature Monitoring System using Arduino, DS18B20, 433 MHz RF, and I2C LCD
 
-This project builds a practical wireless temperature monitoring system using two Arduino UNO boards. One Arduino reads temperature from a DS18B20 sensor and sends it wirelessly through a 433 MHz RF transmitter, while the second Arduino receives the data and shows the live temperature on a 16x2 I2C LCD.[cite:1][cite:6][cite:7]
+This project builds a practical wireless temperature monitoring system using two Arduino UNO boards. One Arduino reads temperature from a DS18B20 sensor and sends it wirelessly through a 433 MHz RF transmitter, while the second Arduino receives the data and shows the live temperature on a 16x2 I2C LCD.
 
 ## Project overview
 
