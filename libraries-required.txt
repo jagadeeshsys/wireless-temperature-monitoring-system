@@ -1,8 +1,0 @@
-OneWire
-DallasTemperature
-VirtualWire
-LiquidCrystal_I2C
-Wire
-LoRa
-WiFi
-HTTPClient
